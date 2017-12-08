@@ -48,6 +48,7 @@
   "root": "homebrew/core",
   "root6": "homebrew/core",
   "scalapack": "homebrew/core",
+  "shogun": "homebrew/core",
   "suite-sparse": "homebrew/core",
   "sundials": "homebrew/core",
   "superlu": "homebrew/core",
